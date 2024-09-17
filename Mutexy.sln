@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35309.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutexy", "Mutexy.csproj", "{A5D56BAE-0DA0-4BB5-8995-8349A7A4C76F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D56BAE-0DA0-4BB5-8995-8349A7A4C76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D56BAE-0DA0-4BB5-8995-8349A7A4C76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D56BAE-0DA0-4BB5-8995-8349A7A4C76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D56BAE-0DA0-4BB5-8995-8349A7A4C76F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEAF0C8C-4E91-455A-B391-6D17158D845C}
+	EndGlobalSection
+EndGlobal
