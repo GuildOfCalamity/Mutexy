@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Mutexy": {
+      "commandName": "Project",
+      "commandLineArgs": "6"
+    }
+  }
+}
